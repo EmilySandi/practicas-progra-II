@@ -1,0 +1,2 @@
+# Ejercicio 3 "Array de punteros a base"
+### En este ejercicio se creó una clase base abstracta Figura con el método virtual puro area(), el cual es implementado por las clases derivadas Circulo y Rectangulo. En el main se utilizó un arreglo de punteros Figura* para almacenar objetos de las clases derivadas y recorrerlos mostrando su área. Esto permite demostrar el uso de herencia, polimorfismo y clases abstractas sin utilizar vector.
